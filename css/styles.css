@@ -55,3 +55,7 @@ body {
   bottom: 0px;
   z-index: 1;
 }
+
+.color-yellow {
+  background: #ffeb3b;
+}
